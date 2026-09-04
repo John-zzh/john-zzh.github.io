@@ -23,7 +23,8 @@ semi-empirical method TDDFT-ris, GPU parallelization, optical property
 simulations of biomacromolecular systems, design of near-infrared absorption
 molecules and fluorescent probes using generative models, prediction of
 protein-drug interactions, molecular dynamics simulations of protein-induced
-cell membrane rupture, and drug-molecule virtual screening, design, and even
-synthesis. He also contributes to the open-source quantum chemistry packages
-[PySCF](https://github.com/pyscf/pyscf) and [GPU4PySCF](https://github.com/pyscf/gpu4pyscf).
+cell membrane rupture, and drug-molecule virtual screening and design. He
+contributes to the open-source quantum chemistry packages
+[PySCF](https://github.com/pyscf/pyscf) and
+[GPU4PySCF](https://github.com/pyscf/gpu4pyscf).
 
