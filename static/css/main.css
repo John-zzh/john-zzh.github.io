@@ -91,7 +91,7 @@ section .main-body{
 #avatar {
     position: relative;
     height: 0;
-    top:min(-65px,max(-100px,calc(-1*100vw/12)));
+    top:min(-85px,max(-140px,calc(-1*100vw/8)));
     max-width: 55em;
     margin: 0 1.5rem 0 0;
     float: right;
@@ -99,8 +99,9 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
+    height: max(180px,min(300px,calc(100vw/4)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
 }
 
 @media screen and (max-width: 991px) {
